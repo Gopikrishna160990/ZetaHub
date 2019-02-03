@@ -1,4 +1,4 @@
-package org.zetahub.com.ZetaHub;
+package org.zetahub.com;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
