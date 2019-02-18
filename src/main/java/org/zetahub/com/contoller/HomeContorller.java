@@ -10,4 +10,6 @@ public class HomeContorller {
 	public String home() {
 		return "Zeta hub is working.";
 	}
+	
+	
 }

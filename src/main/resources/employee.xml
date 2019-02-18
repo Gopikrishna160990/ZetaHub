@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee id='123' name='Gopi'>
+	<Address>
+		<hno>111111</hno>
+		<state>HYD</state>
+		<city>HYD</city>
+	</Address>
+	<officeLocation>MADHAPUR</officeLocation>
+</employee>
